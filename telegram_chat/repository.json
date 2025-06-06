@@ -1,0 +1,19 @@
+{
+  "url": "https://github.com/SALTWOOD/TelegramChat",
+  "name": "TelegramChat",
+  "full_name": "SALTWOOD/TelegramChat",
+  "html_url": "https://github.com/SALTWOOD/TelegramChat",
+  "description": "Scalable Telegram bot.",
+  "archived": false,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "readme": null,
+  "readme_url": null,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"dd40429fdb1fc7d41f5fa740a42f58fc0ae12fa2b66a529eccc46eaf4e809c53\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "226896980": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_api",
+        "name": "ImAPI",
+        "version": "0.1.0",
+        "link": "https://github.com/MCDReforged-Towhee-Community/IMAPI",
+        "authors": [
+          "Andy Zhang",
+          "Aimerny"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.13.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.13.0",
+          "aiocqhttp>=1.4.4",
+          "aiohttp>=3.8.0",
+          "pyyaml>=6.0.1",
+          "python-telegram-bot>=21.10"
+        ],
+        "description": {
+          "en_us": "Cross-platform instant messaging API",
+          "zh_cn": "跨平台即时通信API"
+        }
+      },
+      "size": 21113,
+      "hash_md5": "c039e1430704e5b216ccefe1ee4f0ff9",
+      "hash_sha256": "9e90979315275813392a56eb3c00ff74c77a53e7d000a12ae101bbfd65c064e0",
+      "ttl": 100
+    },
+    "230882925": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_api",
+        "name": "ImAPI",
+        "version": "0.2.0",
+        "link": "https://github.com/MCDReforged-Towhee-Community/IMAPI",
+        "authors": [
+          "Andy Zhang",
+          "Aimerny"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.13.0"
+        },
+        "requirements": [
+          "setuptools>=68.2.0",
+          "mcdreforged>=2.13.0",
+          "aiocqhttp>=1.4.4",
+          "aiohttp>=3.8.0",
+          "matrix-nio>=0.25.2",
+          "pyyaml>=6.0.1",
+          "python-telegram-bot>=21.10"
+        ],
+        "description": {
+          "en_us": "Cross-platform instant messaging API",
+          "zh_cn": "跨平台即时通信API"
+        }
+      },
+      "size": 22552,
+      "hash_md5": "9f1d09a38d12e50b06db637c54bbb5e4",
+      "hash_sha256": "809d23d3f827f71e9d1107895e991721c7939d48d7da18ec6a312040b1da289a",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"0592b1ca992d37b61ea7840e7ed8870b1d8f6a703e36f0b2000f06d6412dde7c\"",
+    "data": "H4sIABPvNWgC/+2ZbW/bNhCA/4rhr6st23lxaqDohgQLiqVNUHgYkGEQKOkssaZIjaTsOoL/+44UJUvO0HgIvwzIl8Q6kc/x5Xi8O1VDmgwXg/fTs9n8anZx/m4w5CKB0EqHX8N1enP/JR/9epcOzSuSg5F/yn95+GQEq5KxsJF+vr75CishU0hGS7HNAEbXIs9LTvUuaLsUkm6INh1WhClAidhykPhcDZlIKX8JZSB2eNPzi8v5/PLqrD/oezvo69/mSbw1bQmqIzIsJTNvM60LtQiCWqrGKdVZGZUKZCy4Bq7HsciDMmjhHzcfzg0mlQ5UazGiY2RBHa5mIFMFL80k0zk7HlsH8lL3lWBMbFFR+NrBBC3qwKU89cVFVBUInQHuBPbZ2yWlSnsYuMVU9h9ujiUr3CgJyevZDoRDN0a6rwIJhahVlJGKJS00FdzDJHo4w8d2hNMn4omPYos14/eAsxjDgw2eGQ/AmlMF1j3Eu3091hjoBrfRl5IjoNGhd4V1Xved5bZnG2nhhsI2bFoUZcRobLeeaghJkltfZb3Y/nUn+eAdE2itADkc3as9jHLd8Zc/Xga7MydqM+CXlvVUXmBhhrqGnTeoYVXmb3OyY/QmJBKSaCG9aelBq96jVaqB5N6UWZh1/UL4W30Ls1ejUiWcdmJOhlumas8oL/PIuXC/eg7HkihFUw7gDd0Cq6C9fyJJeJz509HwKverth2S+jMdUjvxiInIGxT7BBZYBSoj7mLWoc9xGxWG19cgYeVVg+EdNGjp0XrsBKS1noaPkYFGS/KmouEFVaOBEZ6WJPWnogU2IVJKnkD6nIEj1o6aa0mj0q+fPjA7MVjkcxIH5HGU51lF0YQa2Dmn2uMiWVz/rHnWYc7DMz1G4PM2aHi9C6e+3twrz/fbvyp0aaFXGza8oPqpIDprVq4gEjwunMEFVUQwNB2Px1UGpA6fcpAeHUpNs/e1jDOMrH2Bq4aHzXKibd61shNIMBFjgiTe5tACW+vyHDb1rKnAiN4b38J6+JwyUFpwj1vcEnuKuNB0ReOTstOTdfWg1UdFeQzvCKZAaM2axhTPC+WpuxsjYB4vRkPDCZIcXObJgHi83BteFbg0JoGCiZ1Xd9lBWp8igWhMdYk28NlkdjGaTEeT+XI6XczOF+eTR5vmFsmzVrPR7HI5mS2mk8X07LG2WpU9bzRZTuaLi8vF5OqxuWbcVPDnf01+zZTthauyDuXnA2NxOiNmaK+vSsXb0Wz4q1P6TORQYNR1yOcVfTJPV+/7YVgsSm5W2NQzt0RjJnEkbOI3M5yHnc7q8CEjKqw9Dcq1LMHJCim+QaxVp3JgxAd/12u9pWt61LKwoeJRb6riElMpU6Rq+9dlhGakU+uHpBRNzdXN2rn0pENEGolYTyQK4G46LdFUpRmNgSuwZeI17Kx9FGx0Np50C9O3X34f3AIHSdjgwdZrBnd1x8HGNVVF8t3VcG8f7hrAj8+gU66CrspDxfnzTXy5vGXfHv+4eHpcrj8MTTmImKqnub/W6LMOa0VVqCEvWL8EvoXIhWihSVPFaoXZ0d8llb210aKgsVn3P//Cpw1VNKLMFIJ71am6DlPvQ2c13To2huVMKoEVKZkO64TVgHKiNEh76kHmtN3ratireJlNJpRr0hMZR9EdsKS1uR7eM+bWYm/rKnkR1qdVizXwprCOJqZFbiwYx6CpHXy1PyqKvn0xePti8PbF4O2Lwf/3iwEHvUVn3bs5uyWNRj7Z/wMn5rBopx0AAA=="
+  }
+}

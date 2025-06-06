@@ -1,0 +1,19 @@
+{
+  "url": "https://github.com/R1ckyH/multi_whitelist",
+  "name": "multi_whitelist",
+  "full_name": "R1ckyH/multi_whitelist",
+  "html_url": "https://github.com/R1ckyH/multi_whitelist",
+  "description": "A plugin for MCDReforged which can control whitelist in multi servers",
+  "archived": false,
+  "stargazers_count": 4,
+  "watchers_count": 4,
+  "forks_count": 0,
+  "readme": null,
+  "readme_url": null,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0"
+  }
+}
